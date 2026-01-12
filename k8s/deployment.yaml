@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: <REGISTRY>/<IMAGE_NAME>:latest
+        image: savitadhairya/myapp:07cd208221dde123f858e1d09bc9e75aeec2eb27
         ports:
         - containerPort: 3000
